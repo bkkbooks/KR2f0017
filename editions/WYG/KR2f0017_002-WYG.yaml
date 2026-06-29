@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0017/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商文毅疏稿跋先大父平生不紀行事之蹟先大夫殿講之暇博詢勤録乃得奏議若干首如右若夫二十年間朝夕獻納於顧問之頃有如聖諭非外人所知者冝不減此嘗輯素菴文集凡數十巻兩遭回祿悉為煨燼幸而此巻獨存愳散逸因鋟諸梓四方君子或得於𫝊聞而此録所未備者不吝教示幸甚孫汝頤百拜謹識
+  hash: sha256:3ecb8727b4187ec68471afa9ec1de72b4031e221d20a2d10623f7b2ae4cf448a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0017_WYG_002-1a, image: WYG0427/WYG0427-0452a.png}
+metadata:
+  title: 商文毅疏稿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:32:34.578398'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2f0017/KR2f0017_002.txt
+hash: sha256:816164f67827f28f4424b5b33b9fa390200985140f3ccbfbe15830a8cb00d07d
