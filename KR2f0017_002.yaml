@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 商文毅疏稿跋先大父平生不紀行事之蹟先大夫殿講之暇博詢勤録乃得奏議若干首如右若夫二十年間朝夕獻納於顧問之頃有如聖諭非外人所知者冝不減此嘗輯素菴文集凡數十巻兩遭回祿悉為煨燼幸而此巻獨存愳散逸因鋟諸梓四方君子或得於𫝊聞而此録所未備者不吝教示幸甚孫汝頤百拜謹識
-  hash: sha256:3ecb8727b4187ec68471afa9ec1de72b4031e221d20a2d10623f7b2ae4cf448a
+  text: 商文毅疏稿跋先大父平生不紀行事之迹先大夫殿講之暇博詢勤録乃得奏議若干首如右若夫二十年間朝夕獻納於顧問之頃有如聖諭非外人所知者冝不減此嘗輯素菴文集凡數十卷兩遭回祿悉為煨燼幸而此卷獨存愳散逸因鋟諸梓四方君子或得於傳聞而此録所未備者不吝教示幸甚孫汝頤百拜謹識
+  hash: sha256:6d6862ea01e44c3397e6e8ec75eec290f45bdf85fb6db9852a6cc81eaf152c28
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2f0017_WYG_002-1a, image: WYG0427/WYG0427-0452a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2f0017/KR2f0017_002.txt
-hash: sha256:d40141460298f66316e0fc616168c8e73ce83a8aa06d1505a516b811d96145e4
+hash: sha256:e7cf602da3c932ec0ffc1b31fd923eb3eeb2773b6b40b8d8acb804a3a71f7234
